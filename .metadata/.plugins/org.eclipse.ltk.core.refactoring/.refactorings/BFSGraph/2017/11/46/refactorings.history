@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;MST/src/mst&apos;&#x0D;&#x0A;- Original project: &apos;BFSGraph&apos;&#x0D;&#x0A;- Destination element: &apos;MST/src/mst&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     bfsGraph.Graph.java&#x0D;&#x0A;     bfsGraph.Main.java&#x0D;&#x0A;     bfsGraph.BFS.java" description="Copy compilation units" destination="=MST/src&lt;mst" element1="/src&lt;bfsGraph{Graph.java" element2="/src&lt;bfsGraph{Main.java" element3="/src&lt;bfsGraph{BFS.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1510546458168" units="3" version="1.0"/>
+</session>
